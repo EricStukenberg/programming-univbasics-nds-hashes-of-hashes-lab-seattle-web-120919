@@ -47,25 +47,11 @@ def naming_system
        label: "Phylum",
        sub_category: {
          label: "Class"
-       }
+       }, 
      }
-   },
+   }
    
-   :phylum => {
-     label: "Order"
-   },
-   
-   :class => {
-     label: "Family",
-     sub_category: {
-       label: "Genus",
-     }
-   },
-   
-   order => {
-     label: "Species",
-     sub_category: nil
-     }
+ 
   
 
 end
