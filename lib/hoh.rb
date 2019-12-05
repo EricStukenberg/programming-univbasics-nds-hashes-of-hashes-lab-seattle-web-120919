@@ -59,12 +59,13 @@ def naming_system
         label: "Family",
         "genus" => {
           label: "Genus"
-        },
+        }
+      },
       "species" => {
         label: "Species",
         "sub_category" => {}
       }
-   
+  }
  
   
 
